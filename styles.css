@@ -57,3 +57,21 @@ footer {
     color: #777777;
     margin-top: 40px;
 }
+
+/* Carlos' blue and white theme */
+body.carlos {
+    background-color: white;
+    color: #003B73;
+}
+
+body.carlos nav {
+    background-color: #003B73;
+}
+
+body.carlos h1 {
+    color: #005BBB;
+}
+
+body.carlos footer {
+    color: #003B73;
+}
